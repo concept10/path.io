@@ -3,7 +3,7 @@ path.io
 PATH.IO(1)          BSD General Commands Manual                PATH.IO(1)
 
 NAME
-     path.io -- open source system.
+     path.io -- an open source system.
 
 SYNOPSIS
      path.io [-v]
