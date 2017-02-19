@@ -6,7 +6,7 @@ NAME
      path.io -- open source system.
 
 SYNOPSIS
-     path.io [-s]
+     path.io [-v]
 
 DESCRIPTION
      The path.io utility creates some type of open-sourced,
